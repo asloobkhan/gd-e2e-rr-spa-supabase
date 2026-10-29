@@ -1,0 +1,1 @@
+insert into public.notes (body) values ('seeded by e2e'), ('second note');
