@@ -54,5 +54,3 @@ VITE_SUPABASE_ANON_KEY=
 - [Vue Golang PostgresSql Auth Template](https://github.com/mmvergara/vue-golang-postgresql-auth-starter-template)
 - [Vue Supabase Auth Template](https://github.com/mmvergara/vue-supabase-auth-starter-template)
 - [Remix Drizzle Auth Template](https://github.com/mmvergara/remix-drizzle-auth-template)
-
-<!-- e2e paused push -->
